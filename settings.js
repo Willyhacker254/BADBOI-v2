@@ -4,26 +4,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254729577082"
+global.ownernomer = "254727975263"
 global.ownername = "🕷️WILLY-v2-BUG🕷"
 global.ytname = "🕷WILLY-v2-BUG🕷"
 global.socialm = "GitHub: BADBOI-v1"
 global.location = "Africa, Nigeria, Ogun-state"
 
-global.ownernumber = '2348140825959,2348140825959,2348140825959'  //creator number
+global.ownernumber = '254727975263,254729577082,254106527510'  //creator number
 global.ownername = '🕷WILLY-v2-BUG🕷' //owner name
 global.botname = '🕷WILLY-v2-BUG🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'BADBOI HACKER\n\nContact: +2348140825959'
+global.author = 'WILLY HACKER\n\nContact: +254727975263'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "BADBOI HACKER Tech."
+global.wm = "WILLY HACKER Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
+global.link = 'https://telegra.ph/file/eecf091be7d5933a399f8.jpg'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -53,12 +53,12 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only or by Badboi hacker 😂😁😂',
+    prem: 'This feature can be used by premium user only or by Willie hacker 😂😁😂',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin or by Badboi hacker 😂😁😂',
-    owner: 'This feature can be used by owner only or by Badboi hacker 😂😁😂',
+    owner: 'This feature can be used by owner only or by Willie hacker 😂😁😂',
     group: 'This feature is only for groups',
-    private: 'This feature is only for private chats or by Badboi hacker 😂😁😂',
+    private: 'This feature is only for private chats or by Willie hacker 😂😁😂',
     wait: 'In process... ',    
     error: 'Error!',
 }
